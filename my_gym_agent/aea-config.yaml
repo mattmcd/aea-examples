@@ -1,0 +1,18 @@
+aea_version: 0.1.5
+agent_name: my_gym_agent
+authors: ''
+connections:
+- gym
+- oef
+default_connection: oef
+license: ''
+private_key_pem_path: ''
+protocols:
+- default
+- gym
+registry_path: ../packages
+skills:
+- error
+- gym
+url: ''
+version: v1
